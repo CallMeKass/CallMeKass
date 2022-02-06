@@ -7,6 +7,9 @@ I'm Kass, glad to see you stopped by!
 <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/mechanical-arm.png" width="24px"> I would love the opportunity to use my skills in a way that will improve the lives of people with disabilities  
 <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/transgender-female.png" width="24px"> Woman in STEM  
 
+## Skills and Tools
+Javascript, Python, C#, C, Java, HTML/CSS, REST APIs, VS Code, JetBrains Rider, Unity, Version Control, 
+
 ## Social Media
 <div>
     <!--GitHub -->
